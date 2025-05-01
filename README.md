@@ -3,7 +3,9 @@
 Welcome to my personal developer portfolio! This website showcases my projects, skills, and experiences as a full-stack developer. It's designed to provide visitors with a comprehensive view of my work and capabilities.
 
 ## 🚀 Live Demo
-
+<p style="text-align: center; color: red; font-weight: bold;">
+  ⚠️ For the best experience, please view this portfolio on a desktop device. I'm still working on making it fully responsive for mobile and tablet screens. Thank you for your patience!
+</p>
 Check out the live version of the portfolio here: [https://krish1925.github.io/]( https://developer-krish.github.io/Portfolio/)
 
 ## 🛠️ Technologies Used
@@ -53,19 +55,19 @@ To run this project locally:
    You can also use a live server extension if you're using VS Code or any other development environment.
    
 ## ✨ Features
-Responsive Design: Optimized for various screen sizes, including desktops, tablets, and mobile devices.
+    Responsive Design: Optimized for various screen sizes, including desktops, tablets, and mobile devices.
 
-Project Showcase: Highlights key projects with descriptions and links.
+    Project Showcase: Highlights key projects with descriptions and links.
 
-Contact Form: Allows visitors to get in touch directly from the website.
+    Contact Form: Allows visitors to get in touch directly from the website.
 
-Interactive Elements: Smooth scrolling and interactive components enhance user experience.
+    Interactive Elements: Smooth scrolling and interactive components enhance user experience.
 
 ## 📬 Contact
-Feel free to connect with me:
+    Feel free to connect with me:
 
-Email: krishgupta.udh@gmail.com
+    Email: krishgupta.udh@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/krish-gupta-19104a1b5/
+    LinkedIn: https://www.linkedin.com/in/krish-gupta-19104a1b5/
 
-GitHub: developer-krish
+    GitHub: developer-krish
