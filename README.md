@@ -55,19 +55,19 @@ To run this project locally:
    You can also use a live server extension if you're using VS Code or any other development environment.
    
 ## ✨ Features
-    Responsive Design: Optimized for various screen sizes, including desktops, tablets, and mobile devices.
+  Responsive Design: Optimized for various screen sizes, including desktops, tablets, and mobile devices.
 
-    Project Showcase: Highlights key projects with descriptions and links.
+  Project Showcase: Highlights key projects with descriptions and links.
 
-    Contact Form: Allows visitors to get in touch directly from the website.
+  Contact Form: Allows visitors to get in touch directly from the website.
 
-    Interactive Elements: Smooth scrolling and interactive components enhance user experience.
+  Interactive Elements: Smooth scrolling and interactive components enhance user experience.
 
 ## 📬 Contact
-    Feel free to connect with me:
+  Feel free to connect with me:
 
-    Email: krishgupta.udh@gmail.com
+  Email: krishgupta.udh@gmail.com
 
-    LinkedIn: https://www.linkedin.com/in/krish-gupta-19104a1b5/
+  LinkedIn: https://www.linkedin.com/in/krish-gupta-19104a1b5/
 
-    GitHub: developer-krish
+  GitHub: developer-krish
