@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio! This website showcases my projects, 
 <p style="text-align: center; color: red; font-weight: bold;">
   ⚠️ For the best experience, please view this portfolio on a desktop device. I'm still working on making it fully responsive for mobile and tablet screens. Thank you for your patience!
 </p>
-Check out the live version of the portfolio here: [https://krish1925.github.io/]( https://developer-krish.github.io/Portfolio/)
+Check out the live version of the portfolio here: (https://developer-krish.github.io/Portfolio/)
 
 ## 🛠️ Technologies Used
 
