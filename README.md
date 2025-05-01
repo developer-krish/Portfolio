@@ -49,7 +49,7 @@ To run this project locally:
    ```bash
    cd Portfolio
    ```
-3. **Open index.html in your preferred web browser:**
+3. **Open index.html in your preferred web browser:**<br>
    You can also use a live server extension if you're using VS Code or any other development environment.
    
 ## ✨ Features
