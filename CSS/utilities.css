@@ -1,0 +1,50 @@
+.flex {
+    display: flex; /*to align navbar items in a single line*/
+    /* gap: 4rem;
+    align-items: center; */
+}
+
+.items-center {
+    align-items: center; /*to align items at center*/
+}
+.justify-between {
+    /*to move button at right side*/
+    justify-content: space-between;
+}
+.btn {
+    /* for all buttons present*/
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 600; /*to bold*/
+    border: 2px solid transparent;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+.btn-primary {
+    background: var(--primary);
+    color: var(--secondary);
+    border-radius: 10rem;
+}
+.btn-primary:hover {
+    background: transparent;
+    border-color: var(--primary);
+    color: var(--primary);
+}
+.btn-secondary {
+    background: transparent;
+    border-color: var(--primary);
+    color: var(--primary);
+    margin-bottom: 30px;
+    border-radius: 20rem;
+}
+.btn-secondary:hover {
+    background-color: var(--primary);
+    color: var(--secondary);
+}
+.flex-1 {
+    flex: 1;
+}
+.justify-center {
+    justify-content: center;
+}
