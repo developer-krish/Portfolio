@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio! This website showcases my projects, 
 
 ## 🚀 Live Demo
 
-Check out the live version of the portfolio here: [https://krish1925.github.io/](https://krish1925.github.io/)
+Check out the live version of the portfolio here: [https://krish1925.github.io/]( https://developer-krish.github.io/Portfolio/)
 
 ## 🛠️ Technologies Used
 
